@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "oQeTmBoGATXuqFB0IEazrX1ERG/U4UPxqBV5ehIHoB0=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API/wwwroot",
+      "Source": "API",
+      "ContentRoot": "/Users/khacvu/RiderProjects/API/API/wwwroot/",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
